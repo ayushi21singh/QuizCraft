@@ -1,5 +1,5 @@
-# Quiz-Hub
-### Live Here ➡️ https://quiz-hub-by-subrata-rudra.vercel.app/
+# QuizCarft
+
 ## TECH STACK USED:
 ### BACKEND:
 NODE JS, EXPRESS JS
@@ -10,7 +10,7 @@ MONGODB
 ## Requirements
 You should have Node JS installed in your device.
 ## Set Up
-1) Clone the repository by using this command ➡️ git clone https://github.com/Subrata-Rudra/Quiz-Hub
+1) Clone the repository by using this command ➡️ git clone https://github.com/ayushi21singh/QuizCraft.git
 2) Open terminal in that folder.
 3) In the terminal run ➡️ cd backend
 4) Now run ➡️ npm install
@@ -32,6 +32,3 @@ You should have Node JS installed in your device.
 9) Now run ➡️ npm start
 10) Frontend will run on ➡️ PORT(3000)
 11) Open http://localhost:3000 in your browser, you will see that the website is live 🎉.
-12) 
-## To access the backend without setting up the backend locally
-BACKEND HOSTED LIVE LINK ➡️ https://quiz-hub-backend.onrender.com/
