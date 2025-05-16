@@ -31,4 +31,3 @@ You should have Node JS installed in your device.
 8) Now run ➡️ cd frontend
 9) Now run ➡️ npm start
 10) Frontend will run on ➡️ PORT(3000)
-11) Open http://localhost:3000 in your browser, you will see that the website is live 🎉.
